@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 234193dcdebcc89428d21bce861d0f3d, type: 3}
-  m_Name: New Setting
+  m_Script: {fileID: 11500000, guid: ffcd9d85a49e477478a6b8594dd16d9a, type: 3}
+  m_Name: New Setting Data
   m_EditorClassIdentifier: 
   sfxVolume: 0
   MusicVolume: 0

@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [CreateAssetMenu]
-public class Setting : ScriptableObject
+public class SettingData : ScriptableObject
 {
     public float sfxVolume;
     public float MusicVolume;
